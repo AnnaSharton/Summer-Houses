@@ -68,8 +68,16 @@ a:hover {color: rgb(83, 51, 77);}
       display: none;
     }
   }
-  @media screen and (max-width: 631px) {
+@media screen and (max-width: 631px) {
     #terms {
         background:  rgb(74, 122, 123);
     }
   }
+  @media screen and (max-width: 800px) {
+    .img-hide {
+      display: none;
+    }
+  }
+
+
+ 
